@@ -1,0 +1,29 @@
+P3.1 y P3.2
+
+1. tocar el sensor por unos momentos con los dedos... que
+pasa?
+
+Aumenta el valor del termometro ligeramente
+
+2. Acercarse al sensor y aventar un poco de aliento (vaho)...
+que pasa???
+
+El valor de humedad aumenta un poco al igual que la temperatura
+
+P3.3
+
+1. Realiza diferentes medidas, al techo, a un objeto para ver
+las diferentes distancias cosas hacia el sensor....
+¿Hay algún comportamiento inesperado en las lecturas? Si es
+así, ¿qué observaste?
+
+Como tal entre mas lejos este un objeto directamente enfrente del ultrasonico mas aumenta el valor de la medicion.
+
+En ocasiones dependiendo e la superficie podia llegar a la medicion de 2 metros cuando no era el caso
+
+P3.4
+
+¿Cuáles son las ventajas y desventajas de usar un
+display OLED en un proyecto como este?
+
+Permite poder consultar informacion sin la necesidad de tener una computadora siempre conectada al modulo, lo cual permite que un dispositivo como este pueda aplicarse a diferentes situaciones teniendo una bateria u algun otro tipo de alimentacion.
