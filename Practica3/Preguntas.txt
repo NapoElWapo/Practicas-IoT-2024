@@ -27,3 +27,10 @@ P3.4
 display OLED en un proyecto como este?
 
 Permite poder consultar informacion sin la necesidad de tener una computadora siempre conectada al modulo, lo cual permite que un dispositivo como este pueda aplicarse a diferentes situaciones teniendo una bateria u algun otro tipo de alimentacion.
+
+P3.6
+
+Cómo aumentarías el “storage” para guardar más
+tarjetas con acceso “concedido”? 
+
+Aumentando los arrays de usuarios y registrando manualmente la tarjeta, lo ideal seria tener una matriz dinamica para poder agregar n usuarios y n tarjetas a la vez de activar un modo de escritura para agregar otra tarjeta.
