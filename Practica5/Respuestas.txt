@@ -1,0 +1,30 @@
+1. Que tan preciso es el sensor respecto a la temperatura que da la API?
+Son muy diferentes, principalmente porque el sensor DHT se encuentra actualmente n un interior y no esta a temperatura "ambiente"
+
+2. Cual es el % de variación ?
+Como del 200%
+
+3. Cual es la principal diferencia entre la práctica 5.1 y la 5.2 con la 5.3?
+El protocolo de datos MQTT y lo que sea que tenga la libreria de thingspeak
+
+4. Cual plataforma cloud de IoT se te ha hecho mas amigable de las dos
+revisadas y porque?
+thingspeak, solo porque sus tokens si sirven a diferencia de ubidots
+mi token de ubidots no funciona, pero si uso el de mis compañeros si funiona
+odio a ubidots por desperdiciar 13 horas de mi vida
+
+5. En tus propias palabras como explicarías para que sirve la plataforma
+cloud de IoT y porque se llama de IoT y no simplemente plataforma cloud?
+Porque algunas soluciones de IoT pueden funcionar en una red local y no todo se necesita procesar en la nube
+
+6. Revisa el código y contesta cuales son las líneas de código que escriben el
+status ?
+
+Estas meras
+
+ if (indoorTempAverage > 30)
+        status = "Temperatura Relativamente Alta";
+    else if (indoorTempAverage <= 30 && indoorTempAverage >= 20)
+        status = "Temperatura Normal";
+    else if (indoorTempAverage < 20)
+        status = "Temperatura Relativamente Baja";
