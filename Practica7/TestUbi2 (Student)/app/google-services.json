@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "693666231174",
-    "project_id": "testubi2",
-    "storage_bucket": "testubi2.appspot.com"
+    "project_number": "897424232755",
+    "project_id": "iotieso",
+    "storage_bucket": "iotieso.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:693666231174:android:e424196a9889b95418b207",
+        "mobilesdk_app_id": "1:897424232755:android:5c5d2eb0d515e6eb4e6e46",
         "android_client_info": {
           "package_name": "com.example.testubi2"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "693666231174-o9i4mou9fbra0csjkpsapirh5rl3taq1.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBkHMnOyCevMWlY3FXIy6rDNl5_LgXLN6o"
+          "current_key": "AIzaSyBNbOCvofE8i76mmh5Wnckv-ITGMnCULPY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "693666231174-o9i4mou9fbra0csjkpsapirh5rl3taq1.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
